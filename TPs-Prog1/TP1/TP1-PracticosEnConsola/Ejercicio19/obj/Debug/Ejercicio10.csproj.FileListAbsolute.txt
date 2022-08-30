@@ -1,0 +1,8 @@
+C:\Users\Lauta\source\repos\Lauthy02\C-Sharp\TPs-Prog1\TP1\TP1-PracticosEnConsola\Ejercicio19\bin\Debug\Ejercicio19.exe.config
+C:\Users\Lauta\source\repos\Lauthy02\C-Sharp\TPs-Prog1\TP1\TP1-PracticosEnConsola\Ejercicio19\bin\Debug\Ejercicio19.exe
+C:\Users\Lauta\source\repos\Lauthy02\C-Sharp\TPs-Prog1\TP1\TP1-PracticosEnConsola\Ejercicio19\bin\Debug\Ejercicio19.pdb
+C:\Users\Lauta\source\repos\Lauthy02\C-Sharp\TPs-Prog1\TP1\TP1-PracticosEnConsola\Ejercicio19\obj\Debug\Ejercicio10.csproj.AssemblyReference.cache
+C:\Users\Lauta\source\repos\Lauthy02\C-Sharp\TPs-Prog1\TP1\TP1-PracticosEnConsola\Ejercicio19\obj\Debug\Ejercicio10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lauta\source\repos\Lauthy02\C-Sharp\TPs-Prog1\TP1\TP1-PracticosEnConsola\Ejercicio19\obj\Debug\Ejercicio10.csproj.CoreCompileInputs.cache
+C:\Users\Lauta\source\repos\Lauthy02\C-Sharp\TPs-Prog1\TP1\TP1-PracticosEnConsola\Ejercicio19\obj\Debug\Ejercicio19.exe
+C:\Users\Lauta\source\repos\Lauthy02\C-Sharp\TPs-Prog1\TP1\TP1-PracticosEnConsola\Ejercicio19\obj\Debug\Ejercicio19.pdb
