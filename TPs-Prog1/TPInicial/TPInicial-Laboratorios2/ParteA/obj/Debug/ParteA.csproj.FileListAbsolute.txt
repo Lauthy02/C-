@@ -1,0 +1,17 @@
+C:\Users\Lauta\OneDrive\Desktop\TPs-Prog1-Recu\TPInicial\TPInicial-Laboratorios2\ParteA\bin\Debug\ParteA.exe.config
+C:\Users\Lauta\OneDrive\Desktop\TPs-Prog1-Recu\TPInicial\TPInicial-Laboratorios2\ParteA\bin\Debug\ParteA.exe
+C:\Users\Lauta\OneDrive\Desktop\TPs-Prog1-Recu\TPInicial\TPInicial-Laboratorios2\ParteA\bin\Debug\ParteA.pdb
+C:\Users\Lauta\OneDrive\Desktop\TPs-Prog1-Recu\TPInicial\TPInicial-Laboratorios2\ParteA\obj\Debug\ParteA.csproj.AssemblyReference.cache
+C:\Users\Lauta\OneDrive\Desktop\TPs-Prog1-Recu\TPInicial\TPInicial-Laboratorios2\ParteA\obj\Debug\ParteA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lauta\OneDrive\Desktop\TPs-Prog1-Recu\TPInicial\TPInicial-Laboratorios2\ParteA\obj\Debug\ParteA.Form_Carga_OperaciónVectores.resources
+C:\Users\Lauta\OneDrive\Desktop\TPs-Prog1-Recu\TPInicial\TPInicial-Laboratorios2\ParteA\obj\Debug\ParteA.Form_Matrices.resources
+C:\Users\Lauta\OneDrive\Desktop\TPs-Prog1-Recu\TPInicial\TPInicial-Laboratorios2\ParteA\obj\Debug\ParteA.MDI.resources
+C:\Users\Lauta\OneDrive\Desktop\TPs-Prog1-Recu\TPInicial\TPInicial-Laboratorios2\ParteA\obj\Debug\ParteA.Properties.Resources.resources
+C:\Users\Lauta\OneDrive\Desktop\TPs-Prog1-Recu\TPInicial\TPInicial-Laboratorios2\ParteA\obj\Debug\ParteA.csproj.GenerateResource.cache
+C:\Users\Lauta\OneDrive\Desktop\TPs-Prog1-Recu\TPInicial\TPInicial-Laboratorios2\ParteA\obj\Debug\ParteA.csproj.CoreCompileInputs.cache
+C:\Users\Lauta\OneDrive\Desktop\TPs-Prog1-Recu\TPInicial\TPInicial-Laboratorios2\ParteA\obj\Debug\ParteA.exe
+C:\Users\Lauta\OneDrive\Desktop\TPs-Prog1-Recu\TPInicial\TPInicial-Laboratorios2\ParteA\obj\Debug\ParteA.pdb
+C:\Users\Lauta\OneDrive\Desktop\TPs-Prog1-Recu\TPInicial\TPInicial-Laboratorios2\ParteA\obj\Debug\ParteA.Form_Timer.resources
+C:\Users\Lauta\OneDrive\Desktop\TPs-Prog1-Recu\TPInicial\TPInicial-Laboratorios2\ParteA\obj\Debug\ParteA.Form_ProgressBar.resources
+C:\Users\Lauta\OneDrive\Desktop\TPs-Prog1-Recu\TPInicial\TPInicial-Laboratorios2\ParteA\obj\Debug\ParteA.Form_ScrollBar.resources
+C:\Users\Lauta\OneDrive\Desktop\TPs-Prog1-Recu\TPInicial\TPInicial-Laboratorios2\ParteA\obj\Debug\ParteA.Form_MessageBox.resources
