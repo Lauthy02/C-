@@ -1,0 +1,8 @@
+C:\Users\Lauta\OneDrive\Desktop\TPs-Prog1-Recu\TP1\TP1-PracticosEnConsola\Ejercicio8\bin\Debug\Ejercicio8.exe.config
+C:\Users\Lauta\OneDrive\Desktop\TPs-Prog1-Recu\TP1\TP1-PracticosEnConsola\Ejercicio8\bin\Debug\Ejercicio8.exe
+C:\Users\Lauta\OneDrive\Desktop\TPs-Prog1-Recu\TP1\TP1-PracticosEnConsola\Ejercicio8\bin\Debug\Ejercicio8.pdb
+C:\Users\Lauta\OneDrive\Desktop\TPs-Prog1-Recu\TP1\TP1-PracticosEnConsola\Ejercicio8\obj\Debug\Ejercicio8.csproj.AssemblyReference.cache
+C:\Users\Lauta\OneDrive\Desktop\TPs-Prog1-Recu\TP1\TP1-PracticosEnConsola\Ejercicio8\obj\Debug\Ejercicio8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lauta\OneDrive\Desktop\TPs-Prog1-Recu\TP1\TP1-PracticosEnConsola\Ejercicio8\obj\Debug\Ejercicio8.csproj.CoreCompileInputs.cache
+C:\Users\Lauta\OneDrive\Desktop\TPs-Prog1-Recu\TP1\TP1-PracticosEnConsola\Ejercicio8\obj\Debug\Ejercicio8.exe
+C:\Users\Lauta\OneDrive\Desktop\TPs-Prog1-Recu\TP1\TP1-PracticosEnConsola\Ejercicio8\obj\Debug\Ejercicio8.pdb
