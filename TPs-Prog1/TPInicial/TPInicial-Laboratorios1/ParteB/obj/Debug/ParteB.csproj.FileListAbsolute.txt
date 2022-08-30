@@ -1,0 +1,11 @@
+C:\Users\Lauta\OneDrive\Desktop\TPs-Prog1-Recu\TPInicial\TPInicial-Laboratorios1\ParteB\obj\Debug\ParteB.csproj.AssemblyReference.cache
+C:\Users\Lauta\OneDrive\Desktop\TPs-Prog1-Recu\TPInicial\TPInicial-Laboratorios1\ParteB\obj\Debug\ParteB.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lauta\OneDrive\Desktop\TPs-Prog1-Recu\TPInicial\TPInicial-Laboratorios1\ParteB\obj\Debug\ParteB.Properties.Resources.resources
+C:\Users\Lauta\OneDrive\Desktop\TPs-Prog1-Recu\TPInicial\TPInicial-Laboratorios1\ParteB\obj\Debug\ParteB.csproj.GenerateResource.cache
+C:\Users\Lauta\OneDrive\Desktop\TPs-Prog1-Recu\TPInicial\TPInicial-Laboratorios1\ParteB\obj\Debug\ParteB.csproj.CoreCompileInputs.cache
+C:\Users\Lauta\OneDrive\Desktop\TPs-Prog1-Recu\TPInicial\TPInicial-Laboratorios1\ParteB\bin\Debug\ParteB.exe.config
+C:\Users\Lauta\OneDrive\Desktop\TPs-Prog1-Recu\TPInicial\TPInicial-Laboratorios1\ParteB\bin\Debug\ParteB.exe
+C:\Users\Lauta\OneDrive\Desktop\TPs-Prog1-Recu\TPInicial\TPInicial-Laboratorios1\ParteB\bin\Debug\ParteB.pdb
+C:\Users\Lauta\OneDrive\Desktop\TPs-Prog1-Recu\TPInicial\TPInicial-Laboratorios1\ParteB\obj\Debug\ParteB.exe
+C:\Users\Lauta\OneDrive\Desktop\TPs-Prog1-Recu\TPInicial\TPInicial-Laboratorios1\ParteB\obj\Debug\ParteB.pdb
+C:\Users\Lauta\OneDrive\Desktop\TPs-Prog1-Recu\TPInicial\TPInicial-Laboratorios1\ParteB\obj\Debug\ParteB.Form_ParteB.resources
