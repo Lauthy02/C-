@@ -27,7 +27,8 @@ namespace Ejercicio10
             primeraMitad = palabra.Substring(0, cantCaractersprimeraMitad);
             Console.WriteLine("La palabra quedaría: {0}", primeraMitad);
             Console.ReadKey();
-            segundaMitad = palabra.Substring(4, cantCaracters); //si en el lugar de 4 pongo un 0 el programa funciona, pero el resultado no es el que quiero (puse 4 por poner algo)
+            segundaMitad = palabra.Substring(4, cantCaracters); 
+            //si en el lugar de 4 pongo un 0 el programa funciona, pero el resultado no es el que quiero (puse 4 por poner algo)
             Console.WriteLine("La palabra quedaría: {0}", segundaMitad);
             Console.ReadKey();
             Console.WriteLine("La palabra quedaría: {0}", segundaMitad + primeraMitad);
