@@ -10,7 +10,7 @@ namespace Ejercicio15
     {
         static void Main(string[] args)
         {
-            //Informar cuantos días faltan para el 25 / 12 / 2027
+            //Informar cuantos días faltan para el 25 / 12 / 2027 (Ej15)
             DateTime fecha1 = new DateTime(2022, 08, 30);
             DateTime fecha2 = new DateTime(2027, 10, 10);
             TimeSpan Aux = fecha1 - fecha2;

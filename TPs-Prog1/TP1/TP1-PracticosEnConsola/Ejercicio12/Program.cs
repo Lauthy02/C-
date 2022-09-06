@@ -10,7 +10,7 @@ namespace Ejercicio12
     {
         static void Main(string[] args)
         {
-            //Mostrar la fecha y hora actual.
+            //Mostrar la fecha y hora actual. (Ej12)
             Console.WriteLine("La fecha y hora acutual es: {0}", DateTime.Now);
             Console.ReadKey();
         }

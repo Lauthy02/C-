@@ -13,6 +13,7 @@ namespace Ejercicio10
             //Dada una frase cualquiera llamada x, mostrar como resultado una frase
             //formada por la segunda mitad de x más la primer mitad de x.
             //(usar el método substring)
+            //(Ej10)
             string palabra, primeraMitad, segundaMitad;
             int cantCaracters, cantCaractersprimeraMitad;
             Console.WriteLine("Ingrese una palabra :");

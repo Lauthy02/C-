@@ -11,7 +11,7 @@ namespace Ejercicio11
     {
         static void Main(string[] args)
         {
-            //Dada una frase informar la cantidad de caracteres que tiene
+            //Dada una frase informar la cantidad de caracteres que tiene (Ej11)
             string palabra;
             int cantCaracters;
             Console.WriteLine("Ingrese una palabra :");

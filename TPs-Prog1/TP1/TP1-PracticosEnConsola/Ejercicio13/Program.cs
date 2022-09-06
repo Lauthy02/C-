@@ -10,7 +10,7 @@ namespace Ejercicio13
     {
         static void Main(string[] args)
         {
-            //Dada una fecha mostrarla en el formato AAAAMMDD.
+            //Dada una fecha mostrarla en el formato AAAAMMDD. (Ej13)
             Console.WriteLine("La fecha actual: {0}", DateTime.Now);
             Console.WriteLine("La fecha actual en formato AAAAMMDD: {0}", DateTime.Today.ToString("yyyy/MM/dd"));
             Console.ReadKey();

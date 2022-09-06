@@ -10,7 +10,7 @@ namespace Ejercicio14
     {
         static void Main(string[] args)
         {
-            //Dadas dos fechas calcular la diferencia en días entre una y la otra.
+            //Dadas dos fechas calcular la diferencia en días entre una y la otra. (Ej14)
             DateTime fecha1 = new DateTime(2020, 10, 10);
             DateTime fecha2 = new DateTime(2023, 10, 10);
             TimeSpan Aux = fecha1 - fecha2;
