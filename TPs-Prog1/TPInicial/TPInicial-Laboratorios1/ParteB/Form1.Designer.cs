@@ -47,9 +47,17 @@
             this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
             this.monthCalendar1 = new System.Windows.Forms.MonthCalendar();
             this.tabPage3 = new System.Windows.Forms.TabPage();
+            this.label_ValorTimerProgress = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.button_DetenerTimer = new System.Windows.Forms.Button();
+            this.button_IniciaTimer = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.progressBar1 = new System.Windows.Forms.ProgressBar();
             this.tabPage4 = new System.Windows.Forms.TabPage();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label_ScrollBHorizontal = new System.Windows.Forms.Label();
+            this.label_ScrollBVertical = new System.Windows.Forms.Label();
             this.vScrollBar1 = new System.Windows.Forms.VScrollBar();
             this.hScrollBar1 = new System.Windows.Forms.HScrollBar();
             this.tabPage5 = new System.Windows.Forms.TabPage();
@@ -57,14 +65,7 @@
             this.button_MessageBoxYS = new System.Windows.Forms.Button();
             this.button_MessageBox = new System.Windows.Forms.Button();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
-            this.button_IniciaTimer = new System.Windows.Forms.Button();
-            this.button_DetenerTimer = new System.Windows.Forms.Button();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label_ValorTimerProgress = new System.Windows.Forms.Label();
-            this.label_ScrollBVertical = new System.Windows.Forms.Label();
-            this.label_ScrollBHorizontal = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
+            this.radioButton1 = new System.Windows.Forms.RadioButton();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.tabPage2.SuspendLayout();
@@ -197,6 +198,7 @@
             // 
             // tabPage1
             // 
+            this.tabPage1.Controls.Add(this.radioButton1);
             this.tabPage1.Controls.Add(this.buttonLimpiar);
             this.tabPage1.Controls.Add(this.label_Operador1);
             this.tabPage1.Controls.Add(this.button_Salir);
@@ -257,6 +259,43 @@
             this.tabPage3.Text = "Progressbar";
             this.tabPage3.UseVisualStyleBackColor = true;
             // 
+            // label_ValorTimerProgress
+            // 
+            this.label_ValorTimerProgress.AutoSize = true;
+            this.label_ValorTimerProgress.Location = new System.Drawing.Point(170, 111);
+            this.label_ValorTimerProgress.Name = "label_ValorTimerProgress";
+            this.label_ValorTimerProgress.Size = new System.Drawing.Size(0, 13);
+            this.label_ValorTimerProgress.TabIndex = 5;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(19, 111);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(145, 13);
+            this.label2.TabIndex = 4;
+            this.label2.Text = "Valor del timer y progressbar: ";
+            // 
+            // button_DetenerTimer
+            // 
+            this.button_DetenerTimer.Location = new System.Drawing.Point(90, 68);
+            this.button_DetenerTimer.Name = "button_DetenerTimer";
+            this.button_DetenerTimer.Size = new System.Drawing.Size(82, 23);
+            this.button_DetenerTimer.TabIndex = 3;
+            this.button_DetenerTimer.Text = "Detener timer";
+            this.button_DetenerTimer.UseVisualStyleBackColor = true;
+            this.button_DetenerTimer.Click += new System.EventHandler(this.button_DetenerTimer_Click);
+            // 
+            // button_IniciaTimer
+            // 
+            this.button_IniciaTimer.Location = new System.Drawing.Point(8, 68);
+            this.button_IniciaTimer.Name = "button_IniciaTimer";
+            this.button_IniciaTimer.Size = new System.Drawing.Size(82, 23);
+            this.button_IniciaTimer.TabIndex = 2;
+            this.button_IniciaTimer.Text = "Iniciar timer";
+            this.button_IniciaTimer.UseVisualStyleBackColor = true;
+            this.button_IniciaTimer.Click += new System.EventHandler(this.button_IniciaTimer_Click);
+            // 
             // label1
             // 
             this.label1.AutoSize = true;
@@ -287,6 +326,42 @@
             this.tabPage4.TabIndex = 3;
             this.tabPage4.Text = "scroll";
             this.tabPage4.UseVisualStyleBackColor = true;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(33, 150);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(178, 13);
+            this.label4.TabIndex = 5;
+            this.label4.Text = "El valor de la scrollbar horizontal es: ";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(25, 18);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(167, 13);
+            this.label3.TabIndex = 4;
+            this.label3.Text = "El valor de la scrollbar vertical es: ";
+            // 
+            // label_ScrollBHorizontal
+            // 
+            this.label_ScrollBHorizontal.AutoSize = true;
+            this.label_ScrollBHorizontal.Location = new System.Drawing.Point(217, 150);
+            this.label_ScrollBHorizontal.Name = "label_ScrollBHorizontal";
+            this.label_ScrollBHorizontal.Size = new System.Drawing.Size(35, 13);
+            this.label_ScrollBHorizontal.TabIndex = 3;
+            this.label_ScrollBHorizontal.Text = "label4";
+            // 
+            // label_ScrollBVertical
+            // 
+            this.label_ScrollBVertical.AutoSize = true;
+            this.label_ScrollBVertical.Location = new System.Drawing.Point(198, 18);
+            this.label_ScrollBVertical.Name = "label_ScrollBVertical";
+            this.label_ScrollBVertical.Size = new System.Drawing.Size(35, 13);
+            this.label_ScrollBVertical.TabIndex = 2;
+            this.label_ScrollBVertical.Text = "label3";
             // 
             // vScrollBar1
             // 
@@ -351,78 +426,16 @@
             this.timer1.Interval = 1000;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
-            // button_IniciaTimer
+            // radioButton1
             // 
-            this.button_IniciaTimer.Location = new System.Drawing.Point(8, 68);
-            this.button_IniciaTimer.Name = "button_IniciaTimer";
-            this.button_IniciaTimer.Size = new System.Drawing.Size(82, 23);
-            this.button_IniciaTimer.TabIndex = 2;
-            this.button_IniciaTimer.Text = "Iniciar timer";
-            this.button_IniciaTimer.UseVisualStyleBackColor = true;
-            this.button_IniciaTimer.Click += new System.EventHandler(this.button_IniciaTimer_Click);
-            // 
-            // button_DetenerTimer
-            // 
-            this.button_DetenerTimer.Location = new System.Drawing.Point(90, 68);
-            this.button_DetenerTimer.Name = "button_DetenerTimer";
-            this.button_DetenerTimer.Size = new System.Drawing.Size(82, 23);
-            this.button_DetenerTimer.TabIndex = 3;
-            this.button_DetenerTimer.Text = "Detener timer";
-            this.button_DetenerTimer.UseVisualStyleBackColor = true;
-            this.button_DetenerTimer.Click += new System.EventHandler(this.button_DetenerTimer_Click);
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(19, 111);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(145, 13);
-            this.label2.TabIndex = 4;
-            this.label2.Text = "Valor del timer y progressbar: ";
-            // 
-            // label_ValorTimerProgress
-            // 
-            this.label_ValorTimerProgress.AutoSize = true;
-            this.label_ValorTimerProgress.Location = new System.Drawing.Point(170, 111);
-            this.label_ValorTimerProgress.Name = "label_ValorTimerProgress";
-            this.label_ValorTimerProgress.Size = new System.Drawing.Size(0, 13);
-            this.label_ValorTimerProgress.TabIndex = 5;
-            // 
-            // label_ScrollBVertical
-            // 
-            this.label_ScrollBVertical.AutoSize = true;
-            this.label_ScrollBVertical.Location = new System.Drawing.Point(198, 18);
-            this.label_ScrollBVertical.Name = "label_ScrollBVertical";
-            this.label_ScrollBVertical.Size = new System.Drawing.Size(35, 13);
-            this.label_ScrollBVertical.TabIndex = 2;
-            this.label_ScrollBVertical.Text = "label3";
-            // 
-            // label_ScrollBHorizontal
-            // 
-            this.label_ScrollBHorizontal.AutoSize = true;
-            this.label_ScrollBHorizontal.Location = new System.Drawing.Point(217, 150);
-            this.label_ScrollBHorizontal.Name = "label_ScrollBHorizontal";
-            this.label_ScrollBHorizontal.Size = new System.Drawing.Size(35, 13);
-            this.label_ScrollBHorizontal.TabIndex = 3;
-            this.label_ScrollBHorizontal.Text = "label4";
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(25, 18);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(167, 13);
-            this.label3.TabIndex = 4;
-            this.label3.Text = "El valor de la scrollbar vertical es: ";
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(33, 150);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(178, 13);
-            this.label4.TabIndex = 5;
-            this.label4.Text = "El valor de la scrollbar horizontal es: ";
+            this.radioButton1.AutoSize = true;
+            this.radioButton1.Location = new System.Drawing.Point(342, 147);
+            this.radioButton1.Name = "radioButton1";
+            this.radioButton1.Size = new System.Drawing.Size(85, 17);
+            this.radioButton1.TabIndex = 12;
+            this.radioButton1.TabStop = true;
+            this.radioButton1.Text = "radioButton1";
+            this.radioButton1.UseVisualStyleBackColor = true;
             // 
             // Form_ParteB
             // 
@@ -484,5 +497,6 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label_ScrollBHorizontal;
         private System.Windows.Forms.Label label_ScrollBVertical;
+        private System.Windows.Forms.RadioButton radioButton1;
     }
 }
