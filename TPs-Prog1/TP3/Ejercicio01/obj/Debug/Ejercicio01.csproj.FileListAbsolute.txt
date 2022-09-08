@@ -1,0 +1,11 @@
+C:\Users\Lauta\source\repos\Lauthy02\C-Sharp\TPs-Prog1\TP3\Ejercicio01\obj\Debug\Ejercicio01.csproj.AssemblyReference.cache
+C:\Users\Lauta\source\repos\Lauthy02\C-Sharp\TPs-Prog1\TP3\Ejercicio01\obj\Debug\Ejercicio01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lauta\source\repos\Lauthy02\C-Sharp\TPs-Prog1\TP3\Ejercicio01\obj\Debug\Ejercicio01.Form1.resources
+C:\Users\Lauta\source\repos\Lauthy02\C-Sharp\TPs-Prog1\TP3\Ejercicio01\obj\Debug\Ejercicio01.Properties.Resources.resources
+C:\Users\Lauta\source\repos\Lauthy02\C-Sharp\TPs-Prog1\TP3\Ejercicio01\obj\Debug\Ejercicio01.csproj.GenerateResource.cache
+C:\Users\Lauta\source\repos\Lauthy02\C-Sharp\TPs-Prog1\TP3\Ejercicio01\obj\Debug\Ejercicio01.csproj.CoreCompileInputs.cache
+C:\Users\Lauta\source\repos\Lauthy02\C-Sharp\TPs-Prog1\TP3\Ejercicio01\bin\Debug\Ejercicio01.exe.config
+C:\Users\Lauta\source\repos\Lauthy02\C-Sharp\TPs-Prog1\TP3\Ejercicio01\bin\Debug\Ejercicio01.exe
+C:\Users\Lauta\source\repos\Lauthy02\C-Sharp\TPs-Prog1\TP3\Ejercicio01\bin\Debug\Ejercicio01.pdb
+C:\Users\Lauta\source\repos\Lauthy02\C-Sharp\TPs-Prog1\TP3\Ejercicio01\obj\Debug\Ejercicio01.exe
+C:\Users\Lauta\source\repos\Lauthy02\C-Sharp\TPs-Prog1\TP3\Ejercicio01\obj\Debug\Ejercicio01.pdb
