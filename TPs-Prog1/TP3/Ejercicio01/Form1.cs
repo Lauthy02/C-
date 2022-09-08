@@ -18,6 +18,9 @@ namespace Ejercicio01
             InitializeComponent();
         }
 
+        //Desarrollar un programa que permita ingresar dos números por medio
+        //de inputbox y retorne la suma de los mismos en un messagebox.
+
         private void button1_Click(object sender, EventArgs e)
         {
             int Num1,Num2;
