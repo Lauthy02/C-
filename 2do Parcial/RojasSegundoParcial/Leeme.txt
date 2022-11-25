@@ -1,0 +1,11 @@
+Hola profe, quería avisarle que el código no está 100% idéntico al diagrama, hice algunos cambios, pero la lógica se mantiene.
+Por ejemplo:
+	En el botón Alta: 
+		Según diagrama: Agrega una línea al archivo maestro cada vez que apreto el botón alta (abre y cierra el archivo cada vez que apreto el botón).
+		Según código: Agrego al archivo maestro todo lo que está en el dataGrid cuando apreto el botón persistir (abre y cierra el archivo 1 sola vez).
+	El el botón Persistir: 
+		La lógica la mantengo pero en el programa hay mas cosas.
+
+La lógica en el diagrama del botón Alta está aplicada dentro de las funciones que están en la selección múltiple dentro del botón Persistir. Por ejemplo en la funciónEscribirVector de Electricas de mesa en el diagrama, es la función guardarEnElecDeMesa(LineaDelArchivo) del programa. 
+
+Cada Selección múltiple actúa como filtro para saber en que archivo guardar la línea escrita en el archivo maestro, cada una de estas tiene su propia función, no como en el diagrama que hice, en el cual pongo en cada selección la misma función (funciónEscribirVector) para cada selección. Mi error. 

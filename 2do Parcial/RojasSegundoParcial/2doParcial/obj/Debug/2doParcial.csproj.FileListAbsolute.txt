@@ -1,0 +1,11 @@
+C:\Users\Lauta\OneDrive\Desktop\Codigo\RojasSegundoParcial\2doParcial\bin\Debug\2doParcial.exe.config
+C:\Users\Lauta\OneDrive\Desktop\Codigo\RojasSegundoParcial\2doParcial\bin\Debug\2doParcial.exe
+C:\Users\Lauta\OneDrive\Desktop\Codigo\RojasSegundoParcial\2doParcial\bin\Debug\2doParcial.pdb
+C:\Users\Lauta\OneDrive\Desktop\Codigo\RojasSegundoParcial\2doParcial\obj\Debug\2doParcial.csproj.AssemblyReference.cache
+C:\Users\Lauta\OneDrive\Desktop\Codigo\RojasSegundoParcial\2doParcial\obj\Debug\2doParcial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lauta\OneDrive\Desktop\Codigo\RojasSegundoParcial\2doParcial\obj\Debug\_2doParcial.Form1.resources
+C:\Users\Lauta\OneDrive\Desktop\Codigo\RojasSegundoParcial\2doParcial\obj\Debug\_2doParcial.Properties.Resources.resources
+C:\Users\Lauta\OneDrive\Desktop\Codigo\RojasSegundoParcial\2doParcial\obj\Debug\2doParcial.csproj.GenerateResource.cache
+C:\Users\Lauta\OneDrive\Desktop\Codigo\RojasSegundoParcial\2doParcial\obj\Debug\2doParcial.csproj.CoreCompileInputs.cache
+C:\Users\Lauta\OneDrive\Desktop\Codigo\RojasSegundoParcial\2doParcial\obj\Debug\2doParcial.exe
+C:\Users\Lauta\OneDrive\Desktop\Codigo\RojasSegundoParcial\2doParcial\obj\Debug\2doParcial.pdb
