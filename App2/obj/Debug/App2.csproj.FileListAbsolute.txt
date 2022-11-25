@@ -1,0 +1,11 @@
+C:\Users\Lauta\OneDrive\Desktop\2do Parcial\2doParcial\App2\bin\Debug\App2.exe.config
+C:\Users\Lauta\OneDrive\Desktop\2do Parcial\2doParcial\App2\bin\Debug\App2.exe
+C:\Users\Lauta\OneDrive\Desktop\2do Parcial\2doParcial\App2\bin\Debug\App2.pdb
+C:\Users\Lauta\OneDrive\Desktop\2do Parcial\2doParcial\App2\obj\Debug\App2.csproj.AssemblyReference.cache
+C:\Users\Lauta\OneDrive\Desktop\2do Parcial\2doParcial\App2\obj\Debug\App2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lauta\OneDrive\Desktop\2do Parcial\2doParcial\App2\obj\Debug\App2.Form1.resources
+C:\Users\Lauta\OneDrive\Desktop\2do Parcial\2doParcial\App2\obj\Debug\App2.Properties.Resources.resources
+C:\Users\Lauta\OneDrive\Desktop\2do Parcial\2doParcial\App2\obj\Debug\App2.csproj.GenerateResource.cache
+C:\Users\Lauta\OneDrive\Desktop\2do Parcial\2doParcial\App2\obj\Debug\App2.csproj.CoreCompileInputs.cache
+C:\Users\Lauta\OneDrive\Desktop\2do Parcial\2doParcial\App2\obj\Debug\App2.exe
+C:\Users\Lauta\OneDrive\Desktop\2do Parcial\2doParcial\App2\obj\Debug\App2.pdb
