@@ -1,0 +1,11 @@
+D:\VS-Prog1-Recursar\Parcial1-P1\Listas\bin\Debug\Listas.exe.config
+D:\VS-Prog1-Recursar\Parcial1-P1\Listas\bin\Debug\Listas.exe
+D:\VS-Prog1-Recursar\Parcial1-P1\Listas\bin\Debug\Listas.pdb
+D:\VS-Prog1-Recursar\Parcial1-P1\Listas\obj\Debug\Parcial.csproj.AssemblyReference.cache
+D:\VS-Prog1-Recursar\Parcial1-P1\Listas\obj\Debug\Parcial.csproj.SuggestedBindingRedirects.cache
+D:\VS-Prog1-Recursar\Parcial1-P1\Listas\obj\Debug\Listas.Properties.Resources.resources
+D:\VS-Prog1-Recursar\Parcial1-P1\Listas\obj\Debug\Parcial.csproj.GenerateResource.cache
+D:\VS-Prog1-Recursar\Parcial1-P1\Listas\obj\Debug\Parcial.csproj.CoreCompileInputs.cache
+D:\VS-Prog1-Recursar\Parcial1-P1\Listas\obj\Debug\Listas.exe
+D:\VS-Prog1-Recursar\Parcial1-P1\Listas\obj\Debug\Listas.pdb
+D:\VS-Prog1-Recursar\Parcial1-P1\Listas\obj\Debug\Parcial.Form1.resources
