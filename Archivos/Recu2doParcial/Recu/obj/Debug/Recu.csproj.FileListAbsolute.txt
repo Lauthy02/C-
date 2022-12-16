@@ -1,0 +1,11 @@
+C:\Users\Lauta\OneDrive\Desktop\Recu2doParcial\Recu\bin\Debug\Recu.exe.config
+C:\Users\Lauta\OneDrive\Desktop\Recu2doParcial\Recu\bin\Debug\Recu.exe
+C:\Users\Lauta\OneDrive\Desktop\Recu2doParcial\Recu\bin\Debug\Recu.pdb
+C:\Users\Lauta\OneDrive\Desktop\Recu2doParcial\Recu\obj\Debug\Recu.csproj.AssemblyReference.cache
+C:\Users\Lauta\OneDrive\Desktop\Recu2doParcial\Recu\obj\Debug\Recu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lauta\OneDrive\Desktop\Recu2doParcial\Recu\obj\Debug\Recu.Form1.resources
+C:\Users\Lauta\OneDrive\Desktop\Recu2doParcial\Recu\obj\Debug\Recu.Properties.Resources.resources
+C:\Users\Lauta\OneDrive\Desktop\Recu2doParcial\Recu\obj\Debug\Recu.csproj.GenerateResource.cache
+C:\Users\Lauta\OneDrive\Desktop\Recu2doParcial\Recu\obj\Debug\Recu.csproj.CoreCompileInputs.cache
+C:\Users\Lauta\OneDrive\Desktop\Recu2doParcial\Recu\obj\Debug\Recu.exe
+C:\Users\Lauta\OneDrive\Desktop\Recu2doParcial\Recu\obj\Debug\Recu.pdb
